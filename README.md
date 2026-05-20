@@ -1,8 +1,8 @@
-# Currency Converter 💱
+# Currency Converter 
 
 A simple and fast currency converter web application that allows users to convert currencies in real time using live exchange rates.
 
-## 🚀 Features
+##  Features
 
 - Convert currencies instantly
 - Real-time exchange rates
@@ -10,7 +10,7 @@ A simple and fast currency converter web application that allows users to conver
 - User-friendly and responsive interface
 - Fast performance with React + Vite
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - Vite
@@ -18,7 +18,7 @@ A simple and fast currency converter web application that allows users to conver
 - CSS / Tailwind CSS
 - Exchange Rate API
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 src/
