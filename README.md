@@ -13,7 +13,6 @@ A simple and fast currency converter web application that allows users to conver
 ##  Tech Stack
 
 - React.js
-- Vite
 - JavaScript
 - CSS / Tailwind CSS
 - Exchange Rate API
